@@ -1,2 +1,3 @@
-# PlayStore-Portfolio
-My games and apps on Google Play https://bit.ly/31n6HG9
+# Showcase
+https://store.steampowered.com/search/?developer=Espectro%20Studios
+https://play.google.com/store/apps/developer?id=Espectro+Studios
