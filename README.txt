@@ -10,5 +10,3 @@ https://play.google.com/store/apps/details?id=spectrostudios.bananasmonkeykong (
 Empresa Pessoal:
 https://www.editoralaranjeira.com.br/
 
-Sites:
-https://declaracaoconteudocorreios.com.br/
